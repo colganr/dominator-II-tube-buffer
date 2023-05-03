@@ -196,9 +196,9 @@
       <firstPoint x="14.876544922753862" y="8.781850907454627"/>
       <secondPoint x="16.366544922753864" y="8.946850907454627"/>
       <font name="Square721 BT Roman" size="24" style="0"/>
-      <color hex="000000"/>
+      <color hex="33ff33"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
-      <value>Green = Shield Ground</value>
+      <value>Green = Shield Ground Connection</value>
     </diylc.misc.WrapLabel>
     <diylc.connectivity.HookupWire>
       <name>W3</name>
@@ -296,9 +296,9 @@
       <firstPoint x="15.15" y="1.78"/>
       <secondPoint x="16.64" y="1.945"/>
       <font name="Square721 BT Roman" size="24" style="0"/>
-      <color hex="000000"/>
+      <color hex="33ff33"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
-      <value>Green = Shield Ground</value>
+      <value>Green = Shield Ground Connection</value>
     </diylc.misc.WrapLabel>
     <diylc.misc.WrapLabel>
       <name>L6</name>
@@ -382,6 +382,27 @@
       <hideShortLeads>false</hideShortLeads>
       <style>SOLID</style>
     </diylc.connectivity.Jumper>
+    <diylc.connectivity.HookupWire>
+      <name>W6</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="12.340480538473077" y="1.4922153892305392"/>
+        <point x="11.441730538473077" y="1.708465389230539"/>
+        <point x="13.331730538473078" y="4.04846538923054"/>
+        <point x="12.292980538473078" y="4.794715389230539"/>
+        <point x="11.254230538473077" y="5.540965389230539"/>
+        <point x="8.674230538473077" y="8.455965389230538"/>
+        <point x="9.410480538473077" y="8.782215389230538"/>
+      </controlPoints2>
+      <color hex="cc6600"/>
+      <pointCount>SEVEN</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_16</gauge>
+      <striped>true</striped>
+      <stripeColor hex="cccccc"/>
+    </diylc.connectivity.HookupWire>
     <diylc.misc.WrapLabel>
       <name>L8</name>
       <controlPoints>
@@ -394,6 +415,232 @@
       <color hex="000000"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
       <value>PORT 6 Coax</value>
+    </diylc.misc.WrapLabel>
+    <diylc.connectivity.Jumper>
+      <name>J6</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="12.075" y="1.675"/>
+        <point x="12.125" y="1.445"/>
+        <point x="12.1" y="1.56"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="33ff33"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.HookupWire>
+      <name>W7</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="8.83625" y="1.49"/>
+        <point x="10.5375" y="1.44625"/>
+        <point x="13.0325" y="1.96125"/>
+        <point x="12.71875" y="4.1525"/>
+        <point x="12.405" y="6.34375"/>
+        <point x="8.73" y="7.57375"/>
+        <point x="10.11125" y="8.805"/>
+      </controlPoints2>
+      <color hex="cc0066"/>
+      <pointCount>SEVEN</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_16</gauge>
+      <striped>true</striped>
+      <stripeColor hex="cccccc"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.misc.WrapLabel>
+      <name>L9</name>
+      <controlPoints>
+        <point x="9.125" y="7.17"/>
+        <point x="10.615" y="7.335"/>
+      </controlPoints>
+      <firstPoint x="9.125" y="7.17"/>
+      <secondPoint x="10.615" y="7.335"/>
+      <font name="Square721 BT Roman" size="24" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>PORT 6 Coax</value>
+    </diylc.misc.WrapLabel>
+    <diylc.connectivity.Jumper>
+      <name>J7</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="9.36" y="1.5"/>
+        <point x="9.065" y="1.415"/>
+        <point x="9.2125" y="1.4575"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="33ff33"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.passive.TransformerCoil>
+      <name>L10</name>
+      <controlPoints>
+        <point x="6.79" y="7.445"/>
+        <point x="6.79" y="7.845"/>
+      </controlPoints>
+      <orientation>DEFAULT</orientation>
+      <color hex="0000ff"/>
+      <tapSpacing value="0.4" unit="in"/>
+      <body>
+        <java.awt.geom.GeneralPath serialization="custom">
+          <unserializable-parents/>
+          <java.awt.geom.Path2D_-Float>
+            <default/>
+            <byte>48</byte>
+            <int>4</int>
+            <int>8</int>
+            <byte>1</byte>
+            <byte>64</byte>
+            <float>1358.0</float>
+            <float>1489.0</float>
+            <byte>65</byte>
+            <float>1383.0</float>
+            <float>1489.0</float>
+            <byte>64</byte>
+            <float>1358.0</float>
+            <float>1569.0</float>
+            <byte>65</byte>
+            <float>1383.0</float>
+            <float>1569.0</float>
+            <byte>97</byte>
+          </java.awt.geom.Path2D_-Float>
+        </java.awt.geom.GeneralPath>
+        <java.awt.geom.GeneralPath serialization="custom">
+          <unserializable-parents/>
+          <java.awt.geom.Path2D_-Float>
+            <default/>
+            <byte>48</byte>
+            <int>9</int>
+            <int>50</int>
+            <byte>1</byte>
+            <byte>64</byte>
+            <float>1383.0</float>
+            <float>1489.0</float>
+            <byte>67</byte>
+            <float>1393.0</float>
+            <float>1489.0</float>
+            <float>1393.0</float>
+            <float>1499.0</float>
+            <float>1383.0</float>
+            <float>1499.0</float>
+            <byte>67</byte>
+            <float>1393.0</float>
+            <float>1499.0</float>
+            <float>1393.0</float>
+            <float>1509.0</float>
+            <float>1383.0</float>
+            <float>1509.0</float>
+            <byte>67</byte>
+            <float>1393.0</float>
+            <float>1509.0</float>
+            <float>1393.0</float>
+            <float>1519.0</float>
+            <float>1383.0</float>
+            <float>1519.0</float>
+            <byte>67</byte>
+            <float>1393.0</float>
+            <float>1519.0</float>
+            <float>1393.0</float>
+            <float>1529.0</float>
+            <float>1383.0</float>
+            <float>1529.0</float>
+            <byte>67</byte>
+            <float>1393.0</float>
+            <float>1529.0</float>
+            <float>1393.0</float>
+            <float>1539.0</float>
+            <float>1383.0</float>
+            <float>1539.0</float>
+            <byte>67</byte>
+            <float>1393.0</float>
+            <float>1539.0</float>
+            <float>1393.0</float>
+            <float>1549.0</float>
+            <float>1383.0</float>
+            <float>1549.0</float>
+            <byte>67</byte>
+            <float>1393.0</float>
+            <float>1549.0</float>
+            <float>1393.0</float>
+            <float>1559.0</float>
+            <float>1383.0</float>
+            <float>1559.0</float>
+            <byte>67</byte>
+            <float>1393.0</float>
+            <float>1559.0</float>
+            <float>1393.0</float>
+            <float>1569.0</float>
+            <float>1383.0</float>
+            <float>1569.0</float>
+            <byte>97</byte>
+          </java.awt.geom.Path2D_-Float>
+        </java.awt.geom.GeneralPath>
+      </body>
+    </diylc.passive.TransformerCoil>
+    <diylc.connectivity.HookupWire>
+      <name>W8</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="5.78" y="5.24"/>
+        <point x="6.32" y="5.26"/>
+        <point x="5.93" y="7.32"/>
+        <point x="6.77" y="7.45"/>
+      </controlPoints2>
+      <color hex="333333"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W9</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="5.785" y="5.59"/>
+        <point x="6.26" y="5.59"/>
+        <point x="5.87" y="7.65"/>
+        <point x="6.78" y="7.855"/>
+      </controlPoints2>
+      <color hex="333333"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.misc.WrapLabel>
+      <name>L11</name>
+      <controlPoints>
+        <point x="6.873333333333332" y="8.46"/>
+        <point x="8.363333333333333" y="8.625"/>
+      </controlPoints>
+      <firstPoint x="6.873333333333332" y="8.46"/>
+      <secondPoint x="8.363333333333333" y="8.625"/>
+      <font name="Square721 BT Roman" size="24" style="0"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>TRIAD C-3X</value>
     </diylc.misc.WrapLabel>
   </components>
   <groups/>
