@@ -125,11 +125,11 @@
       <name>L1</name>
       <controlPoints>
         <point x="3.8918436843684368" y="10.281116111611162"/>
-        <point x="6.286843684368437" y="10.79611611161116"/>
+        <point x="7.516843684368436" y="10.75111611161116"/>
       </controlPoints>
       <firstPoint x="3.8918436843684368" y="10.281116111611162"/>
-      <secondPoint x="6.286843684368437" y="10.79611611161116"/>
-      <font name="Square721 BT Roman" size="32" style="0"/>
+      <secondPoint x="7.516843684368436" y="10.75111611161116"/>
+      <font name="ConthraxSb-Regular" size="32" style="1"/>
       <color hex="000000"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
       <value>Layout by R. Colgan&lt;br&gt;www.TheToneGeek.com</value>
@@ -177,12 +177,12 @@
     <diylc.misc.WrapLabel>
       <name>L2</name>
       <controlPoints>
-        <point x="15.275" y="6.1"/>
-        <point x="16.765" y="6.265"/>
+        <point x="15.435" y="6.12"/>
+        <point x="16.925" y="6.285"/>
       </controlPoints>
-      <firstPoint x="15.275" y="6.1"/>
-      <secondPoint x="16.765" y="6.265"/>
-      <font name="Square721 BT Roman" size="24" style="0"/>
+      <firstPoint x="15.435" y="6.12"/>
+      <secondPoint x="16.925" y="6.285"/>
+      <font name="Square721 BT Bold" size="24" style="1"/>
       <color hex="000000"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
       <value>PORT 1 Coax</value>
@@ -195,10 +195,10 @@
       </controlPoints>
       <firstPoint x="14.876544922753862" y="8.781850907454627"/>
       <secondPoint x="16.366544922753864" y="8.946850907454627"/>
-      <font name="Square721 BT Roman" size="24" style="0"/>
+      <font name="Square721 BT Bold" size="24" style="1"/>
       <color hex="33ff33"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
-      <value>Green = Shield Ground Connection</value>
+      <value>Green = Coax Shield Ground Connection</value>
     </diylc.misc.WrapLabel>
     <diylc.connectivity.HookupWire>
       <name>W3</name>
@@ -221,12 +221,12 @@
     <diylc.misc.WrapLabel>
       <name>L4</name>
       <controlPoints>
-        <point x="13.265" y="5.445"/>
-        <point x="14.755" y="5.61"/>
+        <point x="12.945" y="5.51"/>
+        <point x="14.435" y="5.675"/>
       </controlPoints>
-      <firstPoint x="13.265" y="5.445"/>
-      <secondPoint x="14.755" y="5.61"/>
-      <font name="Square721 BT Roman" size="24" style="0"/>
+      <firstPoint x="12.945" y="5.51"/>
+      <secondPoint x="14.435" y="5.675"/>
+      <font name="Square721 BT Bold" size="24" style="1"/>
       <color hex="000000"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
       <value>PORT 3 Coax</value>
@@ -295,23 +295,10 @@
       </controlPoints>
       <firstPoint x="15.15" y="1.78"/>
       <secondPoint x="16.64" y="1.945"/>
-      <font name="Square721 BT Roman" size="24" style="0"/>
+      <font name="Square721 BT Bold" size="24" style="1"/>
       <color hex="33ff33"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
-      <value>Green = Shield Ground Connection</value>
-    </diylc.misc.WrapLabel>
-    <diylc.misc.WrapLabel>
-      <name>L6</name>
-      <controlPoints>
-        <point x="14.505" y="2.415"/>
-        <point x="15.995" y="2.58"/>
-      </controlPoints>
-      <firstPoint x="14.505" y="2.415"/>
-      <secondPoint x="15.995" y="2.58"/>
-      <font name="Square721 BT Roman" size="24" style="0"/>
-      <color hex="000000"/>
-      <horizontalAlignment>LEFT</horizontalAlignment>
-      <value>PORT 2 Coax</value>
+      <value>Green = Coax Shield Ground Connection</value>
     </diylc.misc.WrapLabel>
     <diylc.connectivity.Jumper>
       <name>J4</name>
@@ -353,12 +340,12 @@
     <diylc.misc.WrapLabel>
       <name>L7</name>
       <controlPoints>
-        <point x="10.415" y="4.81"/>
-        <point x="11.905" y="4.975"/>
+        <point x="10.345" y="5.17"/>
+        <point x="11.835" y="5.335"/>
       </controlPoints>
-      <firstPoint x="10.415" y="4.81"/>
-      <secondPoint x="11.905" y="4.975"/>
-      <font name="Square721 BT Roman" size="24" style="0"/>
+      <firstPoint x="10.345" y="5.17"/>
+      <secondPoint x="11.835" y="5.335"/>
+      <font name="Square721 BT Bold" size="24" style="1"/>
       <color hex="000000"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
       <value>PORT 9 Coax</value>
@@ -406,12 +393,12 @@
     <diylc.misc.WrapLabel>
       <name>L8</name>
       <controlPoints>
-        <point x="9.224328783560823" y="5.107034648267587"/>
-        <point x="10.714328783560823" y="5.272034648267587"/>
+        <point x="9.194328783560822" y="5.362034648267587"/>
+        <point x="10.684328783560822" y="5.527034648267587"/>
       </controlPoints>
-      <firstPoint x="9.224328783560823" y="5.107034648267587"/>
-      <secondPoint x="10.714328783560823" y="5.272034648267587"/>
-      <font name="Square721 BT Roman" size="24" style="0"/>
+      <firstPoint x="9.194328783560822" y="5.362034648267587"/>
+      <secondPoint x="10.684328783560822" y="5.527034648267587"/>
+      <font name="Square721 BT Bold" size="24" style="1"/>
       <color hex="000000"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
       <value>PORT 6 Coax</value>
@@ -459,15 +446,15 @@
     <diylc.misc.WrapLabel>
       <name>L9</name>
       <controlPoints>
-        <point x="9.125" y="7.17"/>
-        <point x="10.615" y="7.335"/>
+        <point x="9.275" y="7.16"/>
+        <point x="10.765" y="7.325"/>
       </controlPoints>
-      <firstPoint x="9.125" y="7.17"/>
-      <secondPoint x="10.615" y="7.335"/>
-      <font name="Square721 BT Roman" size="24" style="0"/>
+      <firstPoint x="9.275" y="7.16"/>
+      <secondPoint x="10.765" y="7.325"/>
+      <font name="Square721 BT Bold" size="24" style="1"/>
       <color hex="000000"/>
       <horizontalAlignment>LEFT</horizontalAlignment>
-      <value>PORT 6 Coax</value>
+      <value>PORT 4 Coax</value>
     </diylc.misc.WrapLabel>
     <diylc.connectivity.Jumper>
       <name>J7</name>
@@ -599,7 +586,7 @@
       <controlPoints2>
         <point x="5.78" y="5.24"/>
         <point x="6.32" y="5.26"/>
-        <point x="5.93" y="7.32"/>
+        <point x="5.92" y="7.47"/>
         <point x="6.77" y="7.45"/>
       </controlPoints2>
       <color hex="333333"/>
@@ -608,8 +595,8 @@
       <smooth>true</smooth>
       <lastUpdatePointIndex>-1</lastUpdatePointIndex>
       <gauge>_22</gauge>
-      <striped>false</striped>
-      <stripeColor hex="ffff00"/>
+      <striped>true</striped>
+      <stripeColor hex="cccccc"/>
     </diylc.connectivity.HookupWire>
     <diylc.connectivity.HookupWire>
       <name>W9</name>
@@ -617,7 +604,7 @@
       <controlPoints2>
         <point x="5.785" y="5.59"/>
         <point x="6.26" y="5.59"/>
-        <point x="5.87" y="7.65"/>
+        <point x="5.79" y="7.82"/>
         <point x="6.78" y="7.855"/>
       </controlPoints2>
       <color hex="333333"/>
@@ -626,8 +613,26 @@
       <smooth>true</smooth>
       <lastUpdatePointIndex>-1</lastUpdatePointIndex>
       <gauge>_22</gauge>
-      <striped>false</striped>
-      <stripeColor hex="ffff00"/>
+      <striped>true</striped>
+      <stripeColor hex="cccccc"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W10</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="11.956697165141742" y="1.3072303884805763"/>
+        <point x="10.646697165141743" y="1.4822303884805763"/>
+        <point x="9.276697165141742" y="3.4472303884805764"/>
+        <point x="8.381697165141743" y="4.247230388480577"/>
+      </controlPoints2>
+      <color hex="666666"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_16</gauge>
+      <striped>true</striped>
+      <stripeColor hex="cccccc"/>
     </diylc.connectivity.HookupWire>
     <diylc.misc.WrapLabel>
       <name>L11</name>
@@ -642,6 +647,269 @@
       <horizontalAlignment>LEFT</horizontalAlignment>
       <value>TRIAD C-3X</value>
     </diylc.misc.WrapLabel>
+    <diylc.connectivity.Jumper>
+      <name>J8</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="11.659211039448028" y="1.267223638818059"/>
+        <point x="11.579211039448028" y="1.372223638818059"/>
+        <point x="11.619211039448027" y="1.319723638818059"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="33ff33"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.HookupWire>
+      <name>W11</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="9.451938653067348" y="1.3246827658617075"/>
+        <point x="10.946938653067347" y="1.1996827658617075"/>
+        <point x="9.806938653067348" y="3.8896827658617075"/>
+        <point x="9.161938653067347" y="4.269682765861708"/>
+      </controlPoints2>
+      <color hex="cc6600"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_16</gauge>
+      <striped>true</striped>
+      <stripeColor hex="cccccc"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.Jumper>
+      <name>J9</name>
+      <alpha>127</alpha>
+      <points>
+        <point x="9.671799910004502" y="1.2472273886305687"/>
+        <point x="9.801799910004501" y="1.3572273886305686"/>
+        <point x="9.736799910004502" y="1.3022273886305686"/>
+      </points>
+      <bodyColor hex="ffffff"/>
+      <borderColor hex="000000"/>
+      <labelColor hex="000000"/>
+      <leadColor hex="33ff33"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <style>SOLID</style>
+    </diylc.connectivity.Jumper>
+    <diylc.connectivity.CurvedTrace>
+      <name>Trace1</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.585" y="4.85"/>
+        <point x="1.62" y="3.84"/>
+        <point x="6.43" y="4.815"/>
+        <point x="6.36" y="4.26"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <size value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CurvedTrace>
+    <diylc.connectivity.CurvedTrace>
+      <name>Trace2</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.7116666666666673" y="4.84"/>
+        <point x="1.6616666666666675" y="3.885"/>
+        <point x="11.231666666666673" y="5.145"/>
+        <point x="11.151666666666669" y="4.28"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <size value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CurvedTrace>
+    <diylc.connectivity.CurvedTrace>
+      <name>Trace3</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.89" y="4.836666666666666"/>
+        <point x="1.7" y="3.8366666666666664"/>
+        <point x="16.025000000000006" y="5.641666666666667"/>
+        <point x="15.815000000000005" y="4.286666666666666"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <size value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CurvedTrace>
+    <diylc.connectivity.CurvedTrace>
+      <name>Trace4</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="1.4" y="4.865"/>
+        <point x="1.64" y="1.77"/>
+        <point x="10.615" y="2.32"/>
+        <point x="10.65" y="1.475"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <size value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CurvedTrace>
+    <diylc.connectivity.SolderLug>
+      <name>SL1</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="5.74" y="8.96"/>
+        <point x="5.74" y="9.29"/>
+        <point x="5.74" y="9.365"/>
+      </controlPoints>
+      <orientation>DEFAULT</orientation>
+    </diylc.connectivity.SolderLug>
+    <diylc.connectivity.TwistedWire>
+      <name>W12</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="0.7" y="6.82"/>
+        <point x="-0.18" y="7.025"/>
+        <point x="0.61" y="2.825"/>
+        <point x="1.29" y="2.62"/>
+        <point x="1.97" y="2.415"/>
+        <point x="8.57" y="2.71"/>
+        <point x="8.755" y="2.635"/>
+      </controlPoints2>
+      <color hex="00ff00"/>
+      <pointCount>SEVEN</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <color2 hex="0000ff"/>
+      <stripeColor hex="ffff00"/>
+      <stripeColor2 hex="ff00ff"/>
+      <stripe1>false</stripe1>
+      <stripe2>false</stripe2>
+    </diylc.connectivity.TwistedWire>
+    <diylc.connectivity.TwistedWire>
+      <name>W13</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="0.63" y="7.275"/>
+        <point x="-0.3" y="7.3"/>
+        <point x="0.03" y="2.79"/>
+        <point x="1.39" y="2.415"/>
+        <point x="2.75" y="2.04"/>
+        <point x="8.67" y="2.505"/>
+        <point x="14.705" y="2.52"/>
+      </controlPoints2>
+      <color hex="006633"/>
+      <pointCount>SEVEN</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <color2 hex="9999ff"/>
+      <stripeColor hex="ffff00"/>
+      <stripeColor2 hex="ff00ff"/>
+      <stripe1>false</stripe1>
+      <stripe2>false</stripe2>
+    </diylc.connectivity.TwistedWire>
+    <diylc.connectivity.HookupWire>
+      <name>W14</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="2.02" y="4.845"/>
+        <point x="2.31" y="4.475"/>
+        <point x="5.475" y="4.625"/>
+        <point x="8.64" y="4.775"/>
+        <point x="9.12" y="8.94"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FIVE</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.connectivity.HookupWire>
+      <name>W15</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="5.8" y="6.23"/>
+        <point x="6.07" y="6.36"/>
+        <point x="6.44" y="9.19"/>
+        <point x="5.74" y="9.37"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <gauge>_22</gauge>
+      <striped>false</striped>
+      <stripeColor hex="ffff00"/>
+    </diylc.connectivity.HookupWire>
+    <diylc.misc.WrapLabel>
+      <name>L14</name>
+      <controlPoints>
+        <point x="11.566698665066747" y="5.879498275086246"/>
+        <point x="13.056698665066747" y="6.044498275086246"/>
+      </controlPoints>
+      <firstPoint x="11.566698665066747" y="5.879498275086246"/>
+      <secondPoint x="13.056698665066747" y="6.044498275086246"/>
+      <font name="Square721 BT Bold" size="24" style="1"/>
+      <color hex="000000"/>
+      <horizontalAlignment>LEFT</horizontalAlignment>
+      <value>PORT 7 Coax</value>
+    </diylc.misc.WrapLabel>
+    <diylc.misc.Label>
+      <name>LAB1</name>
+      <point x="13.82" y="3.965"/>
+      <text>PORT 2 Coax</text>
+      <font name="Square721 BT Bold" size="24" style="1"/>
+      <color hex="ffffff"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>LAB2</name>
+      <point x="8.25939553022349" y="3.919598020098996"/>
+      <text>PORT 5 Coax</text>
+      <font name="Square721 BT Bold" size="24" style="1"/>
+      <color hex="ffffff"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
+    <diylc.misc.Label>
+      <name>LAB3</name>
+      <point x="9.4043197840108" y="3.8470976451177443"/>
+      <text>PORT 8 Coax</text>
+      <font name="Square721 BT Bold" size="24" style="1"/>
+      <color hex="ffffff"/>
+      <horizontalAlignment>CENTER</horizontalAlignment>
+      <verticalAlignment>CENTER</verticalAlignment>
+      <orientation>_270</orientation>
+    </diylc.misc.Label>
   </components>
   <groups/>
   <lockedLayers/>
