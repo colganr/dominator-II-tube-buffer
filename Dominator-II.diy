@@ -782,6 +782,17 @@
       </controlPoints>
       <orientation>DEFAULT</orientation>
     </diylc.connectivity.SolderLug>
+    <diylc.connectivity.SolderLug>
+      <name>SL2</name>
+      <alpha>127</alpha>
+      <value></value>
+      <controlPoints>
+        <point x="0.9005190519051905" y="4.920829582958296"/>
+        <point x="0.9005190519051905" y="4.590829582958296"/>
+        <point x="0.9005190519051905" y="4.515829582958296"/>
+      </controlPoints>
+      <orientation>_180</orientation>
+    </diylc.connectivity.SolderLug>
     <diylc.connectivity.TwistedWire>
       <name>W12</name>
       <alpha>127</alpha>
@@ -910,6 +921,23 @@
       <verticalAlignment>CENTER</verticalAlignment>
       <orientation>_270</orientation>
     </diylc.misc.Label>
+    <diylc.connectivity.CurvedTrace>
+      <name>Trace5</name>
+      <alpha>127</alpha>
+      <controlPoints2>
+        <point x="0.9005100510051005" y="4.5008700870087015"/>
+        <point x="1.1055100510051006" y="3.8008700870087013"/>
+        <point x="1.5105100510051006" y="4.170870087008701"/>
+        <point x="1.2505100510051006" y="4.850870087008701"/>
+      </controlPoints2>
+      <color hex="000000"/>
+      <pointCount>FOUR</pointCount>
+      <style>SOLID</style>
+      <smooth>true</smooth>
+      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <size value="1.0" unit="mm"/>
+      <layer>_1</layer>
+    </diylc.connectivity.CurvedTrace>
   </components>
   <groups/>
   <lockedLayers/>
